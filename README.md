@@ -1,13 +1,13 @@
 # stem-training
-## Day One
+## day One
 Learning markdown
 Installing python
-##Day Two
+## day Two
 manipulation of data
 Building a simple calculator
-##Day Three
+## day Three
 Building a complex calculator
-##Day four
+## day four
 control flow
 if statement
 else,elif
